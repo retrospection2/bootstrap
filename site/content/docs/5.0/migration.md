@@ -12,6 +12,7 @@ toc: true
 ### Sass
 
 - Extended the `.visually-hidden-focusable` helper to also work on containers, using `:focus-within`.
+- Renamed `--aspect-ratio` to `--bs-aspect-ratio` to be consistent with other custom properties.
 
 ### JavaScript
 
